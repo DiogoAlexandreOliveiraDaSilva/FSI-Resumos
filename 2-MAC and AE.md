@@ -135,7 +135,7 @@
 
 ### CMAC Internals
 
-A Estudar, não percebi nada lol ...
+- Cipher-based message authentication codes (or CMACs) are a tool for calculating message authentication codes using a block cipher coupled with a secret key.
 
 ### Universal Hash Functions
 
