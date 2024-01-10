@@ -97,7 +97,7 @@
 
 ### OAEP Encryption
 
-- The purpose of OAEP is to make the RSA encryption process more secure against certain cryptographic attacks, particularly those related to the mathematical properties of RSA. It adds randomness and complexity to the plaintext before encryption, making it more resistant to chosen plaintext attacks and other potential vulnerabilities.
+- The purpose of Optimal Assymetric Encryption Paddings is to make the RSA encryption process more secure against certain cryptographic attacks, particularly those related to the mathematical properties of RSA. It adds randomness and complexity to the plaintext before encryption, making it more resistant to chosen plaintext attacks and other potential vulnerabilities.
 
 ### Physical Signatures
 
