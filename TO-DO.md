@@ -16,6 +16,6 @@
 
 - [x] Authentication
 
-- [ ] Network Security
+- [x] Network Security
 
-- [ ] Intrusion Prevention and Detection
+- [x] Intrusion Prevention and Detection
